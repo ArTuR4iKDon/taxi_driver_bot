@@ -19,7 +19,7 @@ from telegram.warnings import PTBUserWarning
 filterwarnings(action="ignore", message=r".*CallbackQueryHandler", category=PTBUserWarning)
 
 # ============ КОНФИГУРАЦИЯ ============
-TOKEN = "8664081816:AAG9fE5nRPK3pb3S6YUxRffxysghIyWg2Nk"
+TOKEN = "8664081816:AAF-GCIiFt5A5X_g1_0Y57I7aGh7XDdC0yw"
 ADMIN_IDS = [667474295]  # ID администраторов/диспетчеров
 
 # Состояния
